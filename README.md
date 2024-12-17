@@ -1,4 +1,4 @@
-# TodoApplication ----------------------------------mkdir
+# TodoApplication 
 
 
 To start your Phoenix server:
